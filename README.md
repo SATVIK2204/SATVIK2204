@@ -8,6 +8,6 @@ As of now, I have done a internship at Lawnics Technologies, where we worked on 
 So, if you have some data and don't know what to do with it, let me have a look over it. I might make something that can help your organization grow.
 Also, I am open to work. So, if you are hiring let's connect.
 
-#Contact
+# Contact
 * Linkedin- https://www.linkedin.com/in/satvik2204/
 * Email- bksatvik@gmai.com
