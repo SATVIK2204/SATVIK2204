@@ -9,8 +9,8 @@ Also, I am open to work. So, if you are hiring let's connect.
 
 ### GitHub Stats:
 <p align="center">
-  <a href="https://github.com/Nyctophiliac1918">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nyctophiliac1918&show_icons=true&hide=issues&theme=radical"/>
+  <a href="https://github.com/SATVIK2204">
+    <img src="https://github-readme-stats.vercel.app/api?username=SATVIK2204&show_icons=true&hide=issues&theme=radical"/>
   </a>
 </p>
 
@@ -18,8 +18,8 @@ Also, I am open to work. So, if you are hiring let's connect.
 
 ### Top Languages: 
 <p align="center">
-  <a href="https://github.com/Nyctophiliac1918">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyctophiliac1918&theme=radical" align="center" />
+  <a href="https://github.com/SATVIK2204">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATVIK2204&theme=radical" align="center" />
   </a>
 </p>
 
