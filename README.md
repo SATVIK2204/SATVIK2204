@@ -28,10 +28,13 @@ Also, I am open to work. So, if you are hiring let's connect.
 <a href="bksatvik@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  width="40">  </a>
 <a href="reddit.com/user/EZresider"><img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" s width="50">  </a>
 </p> -->
-<table>
-<tr>
-<td>Linkedin<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="120" title="Flickr" /></a><br></td>
-<td>Gmail<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="120" title="Facebook" /></a><br></td>
-<td>Reddit<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="120" title="Tumblr" /></a><br></td>
-</tr>
-<tr>
+
+<p align="center">
+  <table>
+  <tr>
+  <td>Linkedin<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="Flickr" /></a><br></td>
+  <td>Gmail<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Facebook" /></a><br></td>
+  <td>Reddit<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Tumblr" /></a><br></td>
+  </tr>
+  <tr>
+</p>
