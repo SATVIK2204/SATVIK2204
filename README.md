@@ -18,7 +18,7 @@ Also, I am open to work. So, if you are hiring let's connect.
 
 <p align="center">
   <a href="https://github.com/SATVIK2204">
-    <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=SATVIK2204"/>"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATVIK2204&theme=radical"/>
   </a>
 </p>
 
