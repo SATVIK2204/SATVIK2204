@@ -16,10 +16,9 @@ Also, I am open to work. So, if you are hiring let's connect.
 
 ---
 
-### Top Languages: 
 <p align="center">
   <a href="https://github.com/SATVIK2204">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATVIK2204&theme=radical&layout=compact" align="center" />
+    <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=SATVIK2204"/>"/>
   </a>
 </p>
 
