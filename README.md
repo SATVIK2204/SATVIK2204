@@ -30,7 +30,7 @@ Also, I am open to work. So, if you are hiring let's connect.
 </p> -->
 
 <p align="center">
-  <table style=" margin-left: auto;margin-right: auto;">
+  <table align="center">
   <tr>
   <td>Linkedin<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="Flickr" /></a><br></td>
   <td>Gmail<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Facebook" /></a><br></td>
