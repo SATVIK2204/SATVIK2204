@@ -32,9 +32,9 @@ Also, I am open to work. So, if you are hiring let's connect.
 <p align="center">
   <table align="center">
   <tr>
-  <td>Linkedin<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="Flickr" /></a><br></td>
-  <td>Gmail<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Facebook" /></a><br></td>
-  <td>Reddit<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Tumblr" /></a><br></td>
+  <td align="center">Linkedin<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="Flickr" /></a><br></td>
+  <td align="center">Gmail<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Facebook" /></a><br></td>
+  <td align="center">Reddit<br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Tumblr" /></a><br></td>
   </tr>
   <tr>
 </p>
