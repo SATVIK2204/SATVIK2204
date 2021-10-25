@@ -2,7 +2,7 @@
 
 I am a 4th year,Computer Science undergraduate with interest in problem solving and learning new technologies. 
 
-I have made multiple projects using classical ML Algorithms as well as with the help of Deep Learning. I am constantly learning new thing and expanding my skill set. I am currently expanding my tech stack to Web Development and currently learning Backned fundamentals.
+I have been an A.I. Development Intern at Lawnics Tech. I have made multiple projects using Natural Language Processing and other ML/DL algorithms and have been expanding my skill sets to Web development. I have been using NodeJS, ExpressJS, and MongoDB as the tech stack for my projects. Currently, learning Web Development and sharpening my hold on problem-solving using Data Structures and Algorithms.
 
 Also, I am open to work. So, if you are hiring let's connect.
 
