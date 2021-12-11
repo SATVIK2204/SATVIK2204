@@ -34,6 +34,8 @@ Also, I am open to work. So, if you are hiring let's connect.
   <tr>
 </p>
 
+---
+
 ### Tools and Languages:
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
