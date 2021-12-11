@@ -20,6 +20,19 @@ Also, I am open to work. So, if you are hiring let's connect.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATVIK2204&theme=radical"/>
   </a>
 </p>
+---
+
+### Tools and Languages:
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/django.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+&nbsp;&nbsp
 
 ### Find Me On:
 
@@ -34,16 +47,4 @@ Also, I am open to work. So, if you are hiring let's connect.
   <tr>
 </p>
 
----
 
-### Tools and Languages:
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/django.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
-<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
-&nbsp;&nbsp
