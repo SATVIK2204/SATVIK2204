@@ -22,11 +22,7 @@ Also, I am open to work. So, if you are hiring let's connect.
 </p>
 
 ### Find Me On:
-<!-- <p align="center">
-<a href="https://www.linkedin.com/in/resider/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  width="50">  </a>
-<a href="bksatvik@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"  width="40">  </a>
-<a href="reddit.com/user/EZresider"><img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" s width="50">  </a>
-</p> -->
+
 
 <p align="center">
   <table align="center" height="200">
@@ -37,3 +33,15 @@ Also, I am open to work. So, if you are hiring let's connect.
   </tr>
   <tr>
 </p>
+
+### Tools and Languages:
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/python.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/django.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+&nbsp;&nbsp
