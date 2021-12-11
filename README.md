@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik</h1>
 
-I am a 4th year,Computer Science undergraduate with interest in problem solving and learning new technologies. 
 
-I have been an A.I. Development Intern at Lawnics Tech. I have made multiple projects using Natural Language Processing and other ML/DL algorithms and have been expanding my skill sets to Web development. I have been using NodeJS, ExpressJS, and MongoDB as the tech stack for my projects. Currently, learning Web Development and sharpening my hold on problem-solving using Data Structures and Algorithms.
+Satvik this side, a final year undergrad, specializing in CSE. I have deep interest in learn and exploring new technologies and problem solving. Talking about me, I have experience developing RESTful API and extending them to a Web App, using technologies like NodeJS, ExpressJS, MongoDB, EJS, HTML, CSS, and many more. I also have interned as an AI Development Intern where I worked upon the Data Extraction/Scraping, Cleaning, Organizing part of the ML pipeline. One of the skills that I built over my period as an intern and am proud of is, learning things on the go and applying them to add value to work. I am keen on building products and applying the knowledge I have, to solve real-world challenges and learn new skills in the internship.
 
 Also, I am open to work. So, if you are hiring let's connect.
 
