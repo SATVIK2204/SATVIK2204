@@ -20,6 +20,7 @@ Also, I am open to work. So, if you are hiring let's connect.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATVIK2204&theme=radical"/>
   </a>
 </p>
+
 ---
 
 ### Tools and Languages:
@@ -33,6 +34,8 @@ Also, I am open to work. So, if you are hiring let's connect.
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
 &nbsp;&nbsp
+
+---
 
 ### Find Me On:
 
