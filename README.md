@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satvik</h1>
 
 
-Satvik this side, a final year undergrad, specializing in CSE. I have deep interest in learn and exploring new technologies and problem solving. Talking about me, I have experience developing RESTful API and extending them to a Web App, using technologies like NodeJS, ExpressJS, MongoDB, EJS, HTML, CSS, and many more. I also have interned as an AI Development Intern where I worked upon the Data Extraction/Scraping, Cleaning, Organizing part of the ML pipeline. One of the skills that I built over my period as an intern and am proud of is, learning things on the go and applying them to add value to work. I am keen on building products and applying the knowledge I have, to solve real-world challenges and learn new skills in the internship.
+Satvik this side, a final year undergrad, specializing in CSE. I have a deep interest in learning and exploring new technologies and problem-solving. Talking about me, I have experience developing RESTful API and extending them to a Web App, using technologies like NodeJS, ExpressJS, MongoDB, EJS, HTML, CSS, and many more. I also have interned as an AI Development Intern where I worked upon the Data Extraction/Scraping, Cleaning, Organizing part of the ML pipeline. One of the skills that I built over my period as an intern and am proud of is, learning things on the go and applying them to add value to work. I am keen on building products and applying the knowledge I have, to solve real-world challenges and learn new skills in the internship.
 
-Also, I am open to work. So, if you are hiring let's connect.
+Also, I am open to work. So, if you want a guy who can put in the work to get the task done along with a creative edge to tackle the problem at hand efficiently, let's connect.
 
 ### GitHub Stats:
 <p align="center">
