@@ -42,9 +42,9 @@ Also, I am open to work. So, if you want a guy who can put in the work to get th
 <p align="center">
   <table align="center" height="200">
   <tr>
-  <td align="center"><br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="100" title="Linkedin" /></a><br>Linkedin</td>
-  <td align="center"><br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Gmail" /></a><br>Gmail</td>
-  <td align="center"><br><a> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"  width="100" title="EZresider" /></a><br>Reddit</td>
+  <td align="center"><br><a href="https://www.linkedin.com/in/resider/"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"  width="100" title="Linkedin" /></a><br>Linkedin</td>
+  <td align="center"><br><a href="https://twitter.com/itssatvik_"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" title="Gmail" /></a><br>Gmail</td>
+  <td align="center"><br><a href="https://www.reddit.com/user/EZresider"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg"  width="100" title="EZresider" /></a><br>Reddit</td>
   </tr>
   <tr>
 </p>
